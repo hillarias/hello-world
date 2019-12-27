@@ -1,2 +1,2 @@
 # hello-world
-another repository
+UC Berkeley MCB Undergrad with an emphasis in molecular biology / biochemistry
