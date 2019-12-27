@@ -1,2 +1,2 @@
 # hello-world
-UC Berkeley MCB Undergrad with an emphasis in molecular biology / biochemistry
+UC Berkeley MCB undergrad with an emphasis in molecular biology / biochemistry
